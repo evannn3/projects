@@ -1,4 +1,4 @@
 - encrypting.py -> Code used to encrypt/decrypt messages using a customizable key.
 - rock papper scissors.py -> Interactive text version of rock paper scissors.
 - wpm typing test.py -> Word per minute interactive typing test designed to measure average typing speed per minute.
-- PasswordGen.py -> Password generator which saves password with title for easy use
+- PasswordGen.py -> Password generator which saves password with title for easy use.
